@@ -1,0 +1,23 @@
+  
+aside img {
+    float: left;
+}
+ 
+.print img {
+    margin-right: 3px;
+}
+#logo img {
+    float: left;
+}
+aside p {
+    padding-left: 100px;
+    width: 65%;
+    margin: 0;
+    text-indent: 0;
+  
+}
+
+section hr {
+    border-bottom: 1px solid #eee;
+    height: 0;
+  }
